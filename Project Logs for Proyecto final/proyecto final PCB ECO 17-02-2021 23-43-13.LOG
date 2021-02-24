@@ -1,0 +1,4 @@
+Added Component: Designator=C26(CAP NP Pitch 100)
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=Vshunt Pin=C26-2
+Added Member To Class: ClassName=proyecto final Member=Component C26 100 nF

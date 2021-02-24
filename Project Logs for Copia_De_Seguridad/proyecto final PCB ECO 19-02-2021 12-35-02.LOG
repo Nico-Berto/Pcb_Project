@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D1 Old Footprint=DO-214AB (SMC) New Footprint=SOD-123
+Added Member To Class: ClassName=proyecto final Member=Component C7 100 nF
+Added Member To Class: ClassName=proyecto final Member=Component C8 100 nF
+Added Member To Class: ClassName=proyecto final Member=Component MAS Switch PCB
+Added Member To Class: ClassName=proyecto final Member=Component MENOS Switch PCB
+Added Member To Class: ClassName=proyecto final Member=Component OK Switch PCB
+Added Member To Class: ClassName=proyecto final Member=Component R5 10K
+Added Member To Class: ClassName=proyecto final Member=Component R6 10K

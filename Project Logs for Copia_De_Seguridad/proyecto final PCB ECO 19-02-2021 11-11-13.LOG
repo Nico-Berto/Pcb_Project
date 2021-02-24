@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=Ho1 Pin=CONEXION DE POTENCIA-2
+Removed Pin From Net: NetName=Lo1 Pin=CONEXION DE POTENCIA-3
+Removed Pin From Net: NetName=Ho2 Pin=CONEXION DE POTENCIA-4
+Removed Pin From Net: NetName=Lo2 Pin=CONEXION DE POTENCIA-5
+Removed Pin From Net: NetName=Ho3 Pin=CONEXION DE POTENCIA-6
+Removed Pin From Net: NetName=Hf Pin=CONEXION DE POTENCIA-7
+Removed Pin From Net: NetName=Ho1 Pin=IC1-14
+Removed Pin From Net: NetName=Lo1 Pin=IC1-15
+Removed Pin From Net: NetName=Ho2 Pin=IC1-16
+Removed Pin From Net: NetName=Lo2 Pin=IC1-23
+Removed Pin From Net: NetName=Ho3 Pin=IC1-24
+Removed Pin From Net: NetName=Hf Pin=IC1-25
+Removed Pin From Net: NetName=PBin_OK Pin=IC1-50
+Change Component Footprint: Designator=CONEXION DE POTENCIA Old Footprint=CON 8 New Footprint=HEADER IDC 8 FEMALE
+Change Component Comment : Designator=CONEXION DE POTENCIA Old Comment=Conector 8 Vias New Comment=Header 4X2
+Added Pin To Net: NetName=Lo2 Pin=CONEXION DE POTENCIA-2
+Added Pin To Net: NetName=Ho1 Pin=CONEXION DE POTENCIA-3
+Added Pin To Net: NetName=Ho3 Pin=CONEXION DE POTENCIA-4
+Added Pin To Net: NetName=Lo1 Pin=CONEXION DE POTENCIA-5
+Added Pin To Net: NetName=Hf Pin=CONEXION DE POTENCIA-6
+Added Pin To Net: NetName=Ho2 Pin=CONEXION DE POTENCIA-7
+Added Pin To Net: NetName=Ho1 Pin=IC1-8
+Added Pin To Net: NetName=Lo1 Pin=IC1-10
+Added Pin To Net: NetName=PBin_OK Pin=IC1-14
+Added Pin To Net: NetName=Ho3 Pin=IC1-15
+Added Pin To Net: NetName=Hf Pin=IC1-16
+Added Pin To Net: NetName=Ho2 Pin=IC1-17
+Added Pin To Net: NetName=Lo2 Pin=IC1-40

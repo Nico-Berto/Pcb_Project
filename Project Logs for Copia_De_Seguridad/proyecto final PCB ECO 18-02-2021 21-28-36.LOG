@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Input 1 Pin=IC1-30
+Added Pin To Net: NetName=Input 1 Pin=IC1-29
+Added Member To Class: ClassName=proyecto final Member=Component LD4 LED
+Added Member To Class: ClassName=proyecto final Member=Component R16 220

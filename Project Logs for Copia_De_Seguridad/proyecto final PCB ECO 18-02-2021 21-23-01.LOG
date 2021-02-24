@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=Input 4 Pin=IC1-17
+Removed Pin From Net: NetName=Input 3 Pin=IC1-21
+Removed Pin From Net: NetName=GND Pin=LD2-2
+Removed Pin From Net: NetName=GND Pin=LD4-2
+Removed Member From Class: ClassName=proyecto final Member=LD2
+Removed Member From Class: ClassName=proyecto final Member=LD4
+Removed Member From Class: ClassName=proyecto final Member=R14
+Removed Member From Class: ClassName=proyecto final Member=R16
+Added Component: Designator=LD?(LD-0805-AZUL)
+Added Component: Designator=LD?(LD-0805-AZUL)
+Added Component: Designator=R?(R-0805)
+Added Component: Designator=R?(R-0805)
+Added Pin To Net: NetName=Input 4 Pin=IC1-25
+Added Pin To Net: NetName=Input 3 Pin=IC1-27
+Added Pin To Net: NetName=GND Pin=LD?-2
+Added Pin To Net: NetName=GND Pin=LD?-2
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=R?-1
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC1_44 Pin=IC1-44
+Added Pin To Net: NetName=NetIC1_44 Pin=R?-1
+Added Net: Name=NetIC1_44
+Added Pin To Net: NetName=NetLD?_1 Pin=LD?-1
+Added Pin To Net: NetName=NetLD?_1 Pin=R?-2
+Added Net: Name=NetLD?_1
+Added Member To Class: ClassName=proyecto final Member=Component LD? LED
+Added Member To Class: ClassName=proyecto final Member=Component LD? LED
+Added Member To Class: ClassName=proyecto final Member=Component P1 Conector 5 Vias
+Added Member To Class: ClassName=proyecto final Member=Component R? 220
+Added Member To Class: ClassName=proyecto final Member=Component R? 220

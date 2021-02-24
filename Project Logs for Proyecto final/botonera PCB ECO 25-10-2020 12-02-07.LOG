@@ -1,0 +1,177 @@
+Added Component: Designator=ABAJO(TAC SWITCH 6X6 (5MM))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=ALIMENTACION(CON 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=ARRIBA(TAC SWITCH 6X6 (5MM))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=ATRAS(TAC SWITCH 6X6 (5MM))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=BOTONERA?(HEADER 10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=BOTONERA(HEADER 10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP Pitch 80 - 5x11)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(C-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(C-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(C-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(C-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(C-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(C-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DISPLAY(HEADER 4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(LQFP-64)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MAS(TAC SWITCH 6X6 (5MM))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=MENOS(TAC SWITCH 6X6 (5MM))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=OK(TAC SWITCH 6X6 (5MM))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=OP1(DIP-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3V Pin=ALIMENTACION-1
+Added Pin To Net: NetName=+3.3V Pin=BOTONERA-1
+Added Pin To Net: NetName=+3.3V Pin=BOTONERA?-1
+Added Pin To Net: NetName=+3.3V Pin=C1-1
+Added Pin To Net: NetName=+3.3V Pin=C2-2
+Added Pin To Net: NetName=+3.3V Pin=C3-2
+Added Pin To Net: NetName=+3.3V Pin=C4-2
+Added Pin To Net: NetName=+3.3V Pin=C5-2
+Added Pin To Net: NetName=+3.3V Pin=C6-2
+Added Pin To Net: NetName=+3.3V Pin=C7-2
+Added Pin To Net: NetName=+3.3V Pin=DISPLAY-1
+Added Pin To Net: NetName=+3.3V Pin=IC1-13
+Added Pin To Net: NetName=+3.3V Pin=IC1-19
+Added Pin To Net: NetName=+3.3V Pin=IC1-32
+Added Pin To Net: NetName=+3.3V Pin=IC1-48
+Added Pin To Net: NetName=+3.3V Pin=IC1-64
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=GND Pin=ABAJO-2
+Added Pin To Net: NetName=GND Pin=ABAJO-2
+Added Pin To Net: NetName=GND Pin=ABAJO-2
+Added Pin To Net: NetName=GND Pin=ALIMENTACION-2
+Added Pin To Net: NetName=GND Pin=ARRIBA-2
+Added Pin To Net: NetName=GND Pin=ARRIBA-2
+Added Pin To Net: NetName=GND Pin=ARRIBA-2
+Added Pin To Net: NetName=GND Pin=ATRAS-2
+Added Pin To Net: NetName=GND Pin=ATRAS-2
+Added Pin To Net: NetName=GND Pin=ATRAS-2
+Added Pin To Net: NetName=GND Pin=BOTONERA-10
+Added Pin To Net: NetName=GND Pin=BOTONERA?-10
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=DISPLAY-2
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=GND Pin=IC1-31
+Added Pin To Net: NetName=GND Pin=IC1-47
+Added Pin To Net: NetName=GND Pin=IC1-63
+Added Pin To Net: NetName=GND Pin=MAS-2
+Added Pin To Net: NetName=GND Pin=MAS-2
+Added Pin To Net: NetName=GND Pin=MAS-2
+Added Pin To Net: NetName=GND Pin=MENOS-2
+Added Pin To Net: NetName=GND Pin=MENOS-2
+Added Pin To Net: NetName=GND Pin=MENOS-2
+Added Pin To Net: NetName=GND Pin=OK-2
+Added Pin To Net: NetName=GND Pin=OK-2
+Added Pin To Net: NetName=GND Pin=OK-2
+Added Net: Name=GND
+Added Pin To Net: NetName=i2C_SCL Pin=DISPLAY-4
+Added Net: Name=i2C_SCL
+Added Pin To Net: NetName=i2C_SDA Pin=DISPLAY-3
+Added Net: Name=i2C_SDA
+Added Pin To Net: NetName=LED Pin=BOTONERA-8
+Added Pin To Net: NetName=LED Pin=BOTONERA?-8
+Added Net: Name=LED
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=IC1-7
+Added Pin To Net: NetName=NetC8_2 Pin=R1-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=PB_ABAJO Pin=BOTONERA-5
+Added Pin To Net: NetName=PB_ABAJO Pin=BOTONERA?-5
+Added Net: Name=PB_ABAJO
+Added Pin To Net: NetName=PB_ARRIBA Pin=BOTONERA-4
+Added Pin To Net: NetName=PB_ARRIBA Pin=BOTONERA?-4
+Added Net: Name=PB_ARRIBA
+Added Pin To Net: NetName=PB_ATRAS Pin=BOTONERA-3
+Added Pin To Net: NetName=PB_ATRAS Pin=BOTONERA?-3
+Added Net: Name=PB_ATRAS
+Added Pin To Net: NetName=PB_MAS Pin=BOTONERA-6
+Added Pin To Net: NetName=PB_MAS Pin=BOTONERA?-6
+Added Net: Name=PB_MAS
+Added Pin To Net: NetName=PB_MENOS Pin=BOTONERA-7
+Added Pin To Net: NetName=PB_MENOS Pin=BOTONERA?-7
+Added Net: Name=PB_MENOS
+Added Pin To Net: NetName=PB_OK Pin=BOTONERA-2
+Added Pin To Net: NetName=PB_OK Pin=BOTONERA?-2
+Added Net: Name=PB_OK
+Added Class: Name=botonera
+Added Class: Name=proyecto final
+Added Room: Name=botonera
+Added Room: Name=proyecto final

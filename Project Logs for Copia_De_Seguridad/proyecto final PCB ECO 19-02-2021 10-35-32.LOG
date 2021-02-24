@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Ho1 Pin=IC1-8
+Added Component: Designator=P?(PAD 1.5x2.5mm)
+Added Component: Designator=P?(PAD 1.5x2.5mm)
+Added Component: Designator=P?(PAD 1.5x2.5mm)
+Added Component: Designator=P?(PAD 1.5x2.5mm)
+Added Pin To Net: NetName=+3.3V Pin=P?-1
+Added Pin To Net: NetName=+5V Pin=P?-1
+Added Pin To Net: NetName=NetC16_1 Pin=P?-1
+Added Pin To Net: NetName=NetC17_1 Pin=P?-1
+Added Member To Class: ClassName=proyecto final Member=Component P? Conector 1 Via
+Added Member To Class: ClassName=proyecto final Member=Component P? Conector 1 Via
+Added Member To Class: ClassName=proyecto final Member=Component P? Conector 1 Via
+Added Member To Class: ClassName=proyecto final Member=Component P? Conector 1 Via

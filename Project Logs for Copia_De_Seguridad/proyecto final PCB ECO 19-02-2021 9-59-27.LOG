@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=S1 NewDesignator=ARRIBA
+Change Component Designator: OldDesignator=S2 NewDesignator=ABAJO
+Change Component Designator: OldDesignator=S3 NewDesignator=ATRAS
+Change Component Designator: OldDesignator=S4 NewDesignator=MAS
+Change Component Designator: OldDesignator=S5 NewDesignator=MENOS
+Change Component Designator: OldDesignator=S6 NewDesignator=OK
+Added Member To Class: ClassName=proyecto final Member=Component I2C Conector 5 Vias

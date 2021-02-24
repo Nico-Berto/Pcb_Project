@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=Input 4 Pin=IC1-26
+Removed Pin From Net: NetName=Lo2 Pin=IC1-37
+Removed Pin From Net: NetName=PBin_ARRIBA Pin=IC1-43
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=Z1-1
+Removed Member From Class: ClassName=proyecto final Member=C26
+Removed Member From Class: ClassName=proyecto final Member=P4
+Removed Member From Class: ClassName=proyecto final Member=R12
+Removed Member From Class: ClassName=proyecto final Member=Z1
+Added Pin To Net: NetName=Input 4 Pin=IC1-11
+Added Pin To Net: NetName=PBin_ARRIBA Pin=IC1-37
+Added Pin To Net: NetName=Lo2 Pin=IC1-40
+Change Net Name : Old Net Name=Input 4 New Net Name=Vshunt

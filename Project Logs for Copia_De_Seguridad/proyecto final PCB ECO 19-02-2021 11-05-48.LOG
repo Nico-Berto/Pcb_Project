@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+3.3V Pin=I2C-2
+Removed Pin From Net: NetName=GND Pin=I2C-3
+Removed Pin From Net: NetName=i2C_SCL Pin=I2C-4
+Removed Pin From Net: NetName=i2C_SDA Pin=I2C-5
+Change Component Footprint: Designator=I2C Old Footprint=CON 5 New Footprint=HEADER 3X2
+Change Component Comment : Designator=I2C Old Comment=Conector 5 Vias New Comment=Header 3X2
+Added Pin To Net: NetName=i2C_SCL Pin=I2C-2
+Added Pin To Net: NetName=+3.3V Pin=I2C-3
+Added Pin To Net: NetName=i2C_SDA Pin=I2C-4
+Added Pin To Net: NetName=GND Pin=I2C-5

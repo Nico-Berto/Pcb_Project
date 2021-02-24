@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=I/O 1 Pin=IC1-44
+Removed Pin From Net: NetName=I/O 2 Pin=IC1-45
+Removed Pin From Net: NetName=I/O 4 Pin=IC1-55
+Removed Pin From Net: NetName=I/O 3 Pin=IC1-58
+Removed Pin From Net: NetName=GND Pin=LD3-2
+Removed Member From Class: ClassName=proyecto final Member=LD3
+Removed Member From Class: ClassName=proyecto final Member=R15
+Added Component: Designator=LD?(LD-0805-AZUL)
+Added Component: Designator=R?(R-0805)
+Added Pin To Net: NetName=I/O 4 Pin=IC1-33
+Added Pin To Net: NetName=I/O 2 Pin=IC1-34
+Added Pin To Net: NetName=I/O 3 Pin=IC1-35
+Added Pin To Net: NetName=I/O 1 Pin=IC1-36
+Added Pin To Net: NetName=GND Pin=LD?-2
+Added Pin To Net: NetName=NetIC1_59 Pin=IC1-59
+Added Pin To Net: NetName=NetIC1_59 Pin=R?-1
+Added Net: Name=NetIC1_59
+Added Pin To Net: NetName=NetLD?_1 Pin=LD?-1
+Added Pin To Net: NetName=NetLD?_1 Pin=R?-2
+Added Net: Name=NetLD?_1
+Added Member To Class: ClassName=proyecto final Member=Component LD? LED
+Added Member To Class: ClassName=proyecto final Member=Component R? 220

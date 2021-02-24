@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SWCLK Pin=P2-4
+Removed Pin From Net: NetName=SWDIO Pin=P2-5
+Removed Pin From Net: NetName=+3.3V Pin=P2-6
+Change Component Footprint: Designator=P2 Old Footprint=CON 6 New Footprint=HEADER-V-3
+Change Component Comment : Designator=Y1 Old Comment=8/16 MhZ New Comment=XTAL
+Change Component Comment : Designator=P2 Old Comment=Conector 6 Vias New Comment=Conector 3 Vias
+Added Pin To Net: NetName=SWCLK Pin=P2-2
+Added Pin To Net: NetName=SWDIO Pin=P2-3

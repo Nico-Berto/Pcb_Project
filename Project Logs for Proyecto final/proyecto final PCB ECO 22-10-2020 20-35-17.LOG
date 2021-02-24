@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=OP? NewDesignator=OP1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC8_2
+Added Member To Class: ClassName=proyecto final Member=Component C1 47uF x6.3v
+Added Member To Class: ClassName=proyecto final Member=Component C2 __ nF
+Added Member To Class: ClassName=proyecto final Member=Component C3 100nF
+Added Member To Class: ClassName=proyecto final Member=Component C5 100nF
+Added Member To Class: ClassName=proyecto final Member=Component C6 100 nF
+Added Member To Class: ClassName=proyecto final Member=Component C7 100 nF
+Added Member To Class: ClassName=proyecto final Member=Component C8 100 nF

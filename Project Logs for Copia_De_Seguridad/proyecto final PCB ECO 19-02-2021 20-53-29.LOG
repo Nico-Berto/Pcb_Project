@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Change Component Designator: OldDesignator=LS? NewDesignator=LS1
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "LQFP-64"; UniqueID = "\YWOTMLCA" ("\YWOTMLCA")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BC-5550H-01"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=R12-1
+Added Net: Name=NetIC1_3

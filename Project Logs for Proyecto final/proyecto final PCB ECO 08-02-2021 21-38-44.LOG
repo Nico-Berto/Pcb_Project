@@ -1,0 +1,12 @@
+Added Component: Designator=C?(CAP NP Pitch 100)
+Added Net: Name=i2C_SCL
+Added Net: Name=i2C_SDA
+Added Net: Name=LED
+Added Net: Name=PB_ABAJO
+Added Net: Name=PB_ARRIBA
+Added Net: Name=PB_ATRAS
+Added Net: Name=PB_MAS
+Added Net: Name=PB_MENOS
+Added Net: Name=PB_OK
+Added Member To Class: ClassName=proyecto final Member=Component C4 100nF
+Added Member To Class: ClassName=proyecto final Member=Component C? __ nF

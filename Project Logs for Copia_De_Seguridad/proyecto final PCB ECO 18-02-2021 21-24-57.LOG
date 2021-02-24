@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Input 4 Pin=IC1-25
+Removed Pin From Net: NetName=Vshunt Pin=IC1-26
+Change Component Designator: OldDesignator=LD? NewDesignator=LD2
+Change Component Designator: OldDesignator=LD? NewDesignator=LD4
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Added Pin To Net: NetName=Vshunt Pin=IC1-11
+Added Pin To Net: NetName=Input 4 Pin=IC1-26
+Change Net Name : Old Net Name=NetLD?_1 New Net Name=NetLD4_1
+Added Pin To Net: NetName=NetLD2_1 Pin=LD2-1
+Added Pin To Net: NetName=NetLD2_1 Pin=R14-2
+Added Net: Name=NetLD2_1
+Added Member To Class: ClassName=proyecto final Member=Component LD2 LED
+Added Member To Class: ClassName=proyecto final Member=Component R14 220

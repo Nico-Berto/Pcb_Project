@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PBin_ARRIBA Pin=IC1-37
+Removed Pin From Net: NetName=NetLD3_1 Pin=R15-2
+Removed Member From Class: ClassName=proyecto final Member=R15
+Added Component: Designator=R12(R-0805)
+Added Pin To Net: NetName=PBin_ARRIBA Pin=IC1-52
+Added Pin To Net: NetName=NetLD3_1 Pin=R12-2
+Added Pin To Net: NetName=NetIC1_37 Pin=IC1-37
+Added Pin To Net: NetName=NetIC1_37 Pin=R12-1
+Added Net: Name=NetIC1_37
+Added Member To Class: ClassName=proyecto final Member=Component R12 220

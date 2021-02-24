@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Input 4 Pin=IC1-9
+Removed Pin From Net: NetName=Input 1 Pin=IC1-56
+Removed Pin From Net: NetName=Input 2 Pin=IC1-57
+Removed Pin From Net: NetName=Input 3 Pin=IC1-58
+Added Pin To Net: NetName=Input 4 Pin=IC1-17
+Added Pin To Net: NetName=Input 3 Pin=IC1-21
+Added Pin To Net: NetName=Input 2 Pin=IC1-29
+Added Pin To Net: NetName=Input 1 Pin=IC1-36
+Added Member To Class: ClassName=proyecto final Member=Component VR1 Volt Reg

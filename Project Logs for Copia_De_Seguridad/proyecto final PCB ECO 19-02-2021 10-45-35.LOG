@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Hf Pin=IC1-24
+Removed Pin From Net: NetName=Ho3 Pin=IC1-25
+Removed Pin From Net: NetName=Lo2 Pin=IC1-40
+Added Pin To Net: NetName=Lo2 Pin=IC1-23
+Added Pin To Net: NetName=Ho3 Pin=IC1-24
+Added Pin To Net: NetName=Hf Pin=IC1-25
+Added Member To Class: ClassName=proyecto final Member=Component P5 Conector 1 Via
