@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=I/O 7 Pin=P6-10
+Removed Pin From Net: NetName=I/O 4 Pin=P6-11
+Added Pin To Net: NetName=I/O 4 Pin=P6-10
+Added Pin To Net: NetName=I/O 7 Pin=P6-11
+Added Member To Class: ClassName=proyecto final Member=Component LD3 LED
+Added Member To Class: ClassName=proyecto final Member=Component R12 220
