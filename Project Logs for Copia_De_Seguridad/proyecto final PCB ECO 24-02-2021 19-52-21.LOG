@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PBin_MAS Pin=IC1-22
+Added Pin To Net: NetName=PBin_MAS Pin=IC1-25

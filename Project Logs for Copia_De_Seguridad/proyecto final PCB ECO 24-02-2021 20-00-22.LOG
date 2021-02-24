@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PBin_ARRIBA Pin=IC1-44
+Removed Pin From Net: NetName=PBin_ABAJO Pin=IC1-45
+Removed Pin From Net: NetName=Ho3 Pin=IC1-55
+Added Pin To Net: NetName=Ho3 Pin=IC1-43
+Added Pin To Net: NetName=PBin_ARRIBA Pin=IC1-55
+Added Pin To Net: NetName=PBin_ABAJO Pin=IC1-57
