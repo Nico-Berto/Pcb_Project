@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=Input 5 Pin=C31-2
+Removed Pin From Net: NetName=I/O 12 Pin=R22-1
+Removed Pin From Net: NetName=Input 5 Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=Z6-1
+Removed Pin From Net: NetName=Input 5 Pin=Z6-3
+Removed Member From Class: ClassName=proyecto final Member=C31
+Removed Member From Class: ClassName=proyecto final Member=R22
+Removed Member From Class: ClassName=proyecto final Member=Z6

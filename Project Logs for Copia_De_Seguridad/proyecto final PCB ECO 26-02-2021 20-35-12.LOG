@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=NetC14_1 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=I/O 12 Pin=IC4-10
+Removed Pin From Net: NetName=I/O 10 Pin=IC4-11
+Removed Pin From Net: NetName=I/O 9 Pin=IC4-12
+Removed Pin From Net: NetName=Ho2 Pin=IC4-13
+Removed Pin From Net: NetName=Lo1 Pin=IC4-14
+Removed Pin From Net: NetName=Hf Pin=IC4-15
+Removed Pin From Net: NetName=Ho1 Pin=IC4-16
+Removed Pin From Net: NetName=Ho3 Pin=IC4-17
+Removed Pin From Net: NetName=Lo2 Pin=IC4-18
+Removed Pin From Net: NetName=NetIC1_17 Pin=R7-1
+Removed Pin From Net: NetName=NetLD1_1 Pin=R7-2
+Removed Pin From Net: NetName=NetLD2_1 Pin=R11-1
+Removed Pin From Net: NetName=+3.3V Pin=R11-2
+Removed Pin From Net: NetName=NetIC1_6 Pin=R12-2
+Removed Pin From Net: NetName=NetIC1_9 Pin=R13-1
+Removed Pin From Net: NetName=NetLD3_1 Pin=R13-2
+Removed Pin From Net: NetName=+3.3V Pin=R14-2
+Removed Pin From Net: NetName=NetIC1_4 Pin=R16-1
+Removed Member From Class: ClassName=proyecto final Member=IC4
+Change Component Comment : Designator=R14 Old Comment=10k New Comment=220
+Change Component Comment : Designator=R12 Old Comment=22K New Comment=220
+Change Component Comment : Designator=C14 Old Comment=30 pF New Comment=100 nF
+Change Component Comment : Designator=C17 Old Comment=100 nF New Comment=30 pF
+Change Component Comment : Designator=R7 Old Comment=220 New Comment=10k
+Change Component Comment : Designator=R11 Old Comment=220 New Comment=22K
+Added Component: Designator=C31(C-0805)
+Added Component: Designator=IC?(SOIC-18)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R-0805)
+Added Component: Designator=Z6(SOT-23)
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=Lo1 Pin=IC1-10
+Added Pin To Net: NetName=Ho1 Pin=IC1-11
+Added Pin To Net: NetName=Hf Pin=IC1-16
+Added Pin To Net: NetName=Lo2 Pin=IC1-40
+Added Pin To Net: NetName=Ho3 Pin=IC1-43
+Added Pin To Net: NetName=Ho2 Pin=IC1-56
+Added Pin To Net: NetName=I/O 12 Pin=IC?-10
+Added Pin To Net: NetName=I/O 10 Pin=IC?-11
+Added Pin To Net: NetName=I/O 9 Pin=IC?-12
+Added Pin To Net: NetName=Ho2 Pin=IC?-13
+Added Pin To Net: NetName=Lo1 Pin=IC?-14
+Added Pin To Net: NetName=Hf Pin=IC?-15
+Added Pin To Net: NetName=Ho1 Pin=IC?-16
+Added Pin To Net: NetName=Ho3 Pin=IC?-17
+Added Pin To Net: NetName=Lo2 Pin=IC?-18
+Added Pin To Net: NetName=+3.3V Pin=R7-2
+Added Pin To Net: NetName=NetIC1_6 Pin=R11-2
+Added Pin To Net: NetName=NetIC1_4 Pin=R12-1
+Added Pin To Net: NetName=NetLD3_1 Pin=R12-2
+Added Pin To Net: NetName=NetLD1_1 Pin=R13-1
+Added Pin To Net: NetName=+3.3V Pin=R13-2
+Added Pin To Net: NetName=NetIC1_17 Pin=R14-1
+Added Pin To Net: NetName=NetLD2_1 Pin=R14-2
+Added Pin To Net: NetName=NetIC1_9 Pin=R16-1
+Added Pin To Net: NetName=I/O 12 Pin=R22-1
+Added Pin To Net: NetName=GND Pin=Z6-1
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC16_1
+Added Pin To Net: NetName=Input 5 Pin=C31-2
+Added Pin To Net: NetName=Input 5 Pin=IC1-44
+Added Pin To Net: NetName=Input 5 Pin=R22-2
+Added Pin To Net: NetName=Input 5 Pin=Z6-3
+Added Net: Name=Input 5
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=IC1-7
+Added Pin To Net: NetName=NetC14_2 Pin=R7-1
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=R11-1
+Added Pin To Net: NetName=NetC17_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC17_1 Pin=Y1-1
+Added Net: Name=NetC17_1
+Added Member To Class: ClassName=proyecto final Member=Component C31 100 nF
+Added Member To Class: ClassName=proyecto final Member=Component IC? ULN2803
+Added Member To Class: ClassName=proyecto final Member=Component R22 Resistencia
+Added Member To Class: ClassName=proyecto final Member=Component Z6 Zener
