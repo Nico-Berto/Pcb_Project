@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Ho1 Pin=P6-1
+Removed Pin From Net: NetName=+5V Pin=P6-2
+Removed Pin From Net: NetName=Lo1 Pin=P6-3
+Removed Pin From Net: NetName=Hf Pin=P6-4
+Removed Pin From Net: NetName=Ho3 Pin=P6-6
+Added Pin To Net: NetName=Ho3 Pin=P6-1
+Added Pin To Net: NetName=Ho1 Pin=P6-2
+Added Pin To Net: NetName=Hf Pin=P6-3
+Added Pin To Net: NetName=Lo1 Pin=P6-4
+Added Pin To Net: NetName=+5V Pin=P6-6

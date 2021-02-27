@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Ho3 Pin=IC?-14
+Removed Pin From Net: NetName=Ho2 Pin=IC?-15
+Removed Pin From Net: NetName=Hf Pin=IC?-16
+Added Pin To Net: NetName=Ho2 Pin=IC?-14
+Added Pin To Net: NetName=Hf Pin=IC?-15
+Added Pin To Net: NetName=Ho3 Pin=IC?-16

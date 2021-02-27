@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=I/O 10 Pin=IC?-11
+Removed Pin From Net: NetName=I/O 9 Pin=IC?-12
+Removed Pin From Net: NetName=Ho2 Pin=IC?-13
+Removed Pin From Net: NetName=Lo1 Pin=IC?-14
+Removed Pin From Net: NetName=Hf Pin=IC?-15
+Removed Pin From Net: NetName=Ho1 Pin=IC?-16
+Removed Pin From Net: NetName=Ho3 Pin=IC?-17
+Removed Pin From Net: NetName=Lo2 Pin=IC?-18
+Removed Pin From Net: NetName=I/O 5 Pin=P5-7
+Removed Pin From Net: NetName=I/O 8 Pin=P5-9
+Removed Pin From Net: NetName=Lo2 Pin=P6-1
+Removed Pin From Net: NetName=Ho1 Pin=P6-3
+Removed Pin From Net: NetName=Ho3 Pin=P6-4
+Removed Pin From Net: NetName=Lo1 Pin=P6-5
+Removed Pin From Net: NetName=Hf Pin=P6-6
+Removed Pin From Net: NetName=Ho2 Pin=P6-7
+Removed Pin From Net: NetName=I/O 9 Pin=P6-9
+Removed Pin From Net: NetName=I/O 12 Pin=P6-12
+Added Pin To Net: NetName=I/O 9 Pin=IC?-11
+Added Pin To Net: NetName=I/O 10 Pin=IC?-12
+Added Pin To Net: NetName=Lo2 Pin=IC?-13
+Added Pin To Net: NetName=Ho3 Pin=IC?-14
+Added Pin To Net: NetName=Ho2 Pin=IC?-15
+Added Pin To Net: NetName=Hf Pin=IC?-16
+Added Pin To Net: NetName=Lo1 Pin=IC?-17
+Added Pin To Net: NetName=Ho1 Pin=IC?-18
+Added Pin To Net: NetName=I/O 12 Pin=P5-7
+Added Pin To Net: NetName=I/O 9 Pin=P5-9
+Added Pin To Net: NetName=Ho1 Pin=P6-1
+Added Pin To Net: NetName=Lo1 Pin=P6-3
+Added Pin To Net: NetName=Hf Pin=P6-4
+Added Pin To Net: NetName=Ho2 Pin=P6-5
+Added Pin To Net: NetName=Ho3 Pin=P6-6
+Added Pin To Net: NetName=Lo2 Pin=P6-7
+Added Pin To Net: NetName=I/O 8 Pin=P6-9
+Added Pin To Net: NetName=I/O 5 Pin=P6-12

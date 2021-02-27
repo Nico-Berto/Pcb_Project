@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Lo2 Pin=P6-7
+Removed Pin From Net: NetName=I/O 8 Pin=P6-9
+Added Pin To Net: NetName=I/O 8 Pin=P6-7
+Added Pin To Net: NetName=Lo2 Pin=P6-9

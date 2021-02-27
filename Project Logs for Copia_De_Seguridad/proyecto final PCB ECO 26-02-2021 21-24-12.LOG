@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=I/O 8 Pin=R20-1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC4
+Added Pin To Net: NetName=I/O 4 Pin=R20-1
