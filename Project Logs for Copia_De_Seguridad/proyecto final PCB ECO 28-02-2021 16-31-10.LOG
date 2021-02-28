@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=InputAdc1 Pin=P5-6
+Removed Pin From Net: NetName=I/O 7 Pin=P5-11
+Added Pin To Net: NetName=I/O 7 Pin=P5-6
+Added Pin To Net: NetName=InputAdc1 Pin=P5-11

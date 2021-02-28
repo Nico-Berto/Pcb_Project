@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Input 2 Pin=IC1-16
+Removed Pin From Net: NetName=EntradaTemp Pin=P8-1
+Added Pin To Net: NetName=Input 2 Pin=IC1-26

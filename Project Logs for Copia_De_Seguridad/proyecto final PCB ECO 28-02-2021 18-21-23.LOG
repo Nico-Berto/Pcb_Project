@@ -1,0 +1,7 @@
+Change Component Comment : Designator=C2 Old Comment=__ nF New Comment=100 nF
+Added Pin To Net: NetName=+14V Pin=ALIMENTACION1-2
+Added Pin To Net: NetName=+14V Pin=C1-1
+Added Pin To Net: NetName=+14V Pin=C2-2
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=R11-2
+Added Net: Name=NetIC1_6

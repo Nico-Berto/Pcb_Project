@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Input 4 Pin=IC1-14
+Removed Pin From Net: NetName=Vshunt Pin=IC1-26
+Added Pin To Net: NetName=Vshunt Pin=IC1-14
+Added Pin To Net: NetName=Input 4 Pin=IC1-21

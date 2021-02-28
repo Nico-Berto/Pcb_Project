@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=GND Pin=ALIMENTACION1-1
+Removed Pin From Net: NetName=+14V Pin=C1-1
+Removed Pin From Net: NetName=I/O 9 Pin=IC4-11
+Removed Pin From Net: NetName=I/O 10 Pin=IC4-12
+Removed Pin From Net: NetName=I/O 6 Pin=P5-5
+Removed Pin From Net: NetName=I/O 1 Pin=P5-6
+Removed Pin From Net: NetName=I/O 11 Pin=P5-9
+Removed Pin From Net: NetName=I/O 5 Pin=P5-11
+Removed Pin From Net: NetName=I/O 4 Pin=P6-10
+Removed Pin From Net: NetName=I/O 10 Pin=P6-11
+Removed Pin From Net: NetName=I/O 7 Pin=P6-12
+Removed Pin From Net: NetName=I/O 6 Pin=R17-1
+Removed Pin From Net: NetName=I/O 5 Pin=R18-1
+Removed Pin From Net: NetName=I/O 7 Pin=R19-1
+Removed Pin From Net: NetName=I/O 4 Pin=R20-1
+Change Component Footprint: Designator=P6 Old Footprint=HEADER 6x2 New Footprint=HEADER 5x2
+Added Component: Designator=P8(CON 3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R-2512)
+Added Component: Designator=R23(R-2512)
+Added Component: Designator=R24(R-2512)
+Added Component: Designator=R25(R-2512)
+Added Component: Designator=R26(R-2512)
+Added Component: Designator=R27(R-2512)
+Added Component: Designator=R28(R-2512)
+Added Component: Designator=R29(R-2512)
+Added Pin To Net: NetName=GND Pin=IC4-9
+Added Pin To Net: NetName=+5V Pin=IC4-10
+Added Pin To Net: NetName=I/O 1 Pin=IC4-11
+Added Pin To Net: NetName=I/O 4 Pin=P5-5
+Added Pin To Net: NetName=I/O 5 Pin=P5-7
+Added Pin To Net: NetName=I/O 6 Pin=P5-9
+Added Pin To Net: NetName=I/O 7 Pin=P5-11
+Added Pin To Net: NetName=I/O 1 Pin=P6-10
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=I/O 3 Pin=R19-1
+Added Pin To Net: NetName=Ho1 Pin=R22-1
+Added Pin To Net: NetName=+5V Pin=R22-2
+Added Pin To Net: NetName=Lo1 Pin=R23-1
+Added Pin To Net: NetName=+5V Pin=R23-2
+Added Pin To Net: NetName=Ho3 Pin=R24-1
+Added Pin To Net: NetName=+5V Pin=R24-2
+Added Pin To Net: NetName=Hf Pin=R25-1
+Added Pin To Net: NetName=+5V Pin=R25-2
+Added Pin To Net: NetName=Ho2 Pin=R26-1
+Added Pin To Net: NetName=+5V Pin=R26-2
+Added Pin To Net: NetName=Lo2 Pin=R27-1
+Added Pin To Net: NetName=+5V Pin=R27-2
+Added Pin To Net: NetName=+5V Pin=R28-2
+Added Pin To Net: NetName=I/O 1 Pin=R29-1
+Added Pin To Net: NetName=+5V Pin=R29-2
+Added Pin To Net: NetName=Culer Pin=IC4-12
+Added Pin To Net: NetName=Culer Pin=P6-7
+Added Pin To Net: NetName=Culer Pin=R28-1
+Added Net: Name=Culer
+Added Pin To Net: NetName=EntradaCorriente Pin=P8-3
+Added Pin To Net: NetName=EntradaCorriente Pin=R20-1
+Added Net: Name=EntradaCorriente
+Added Pin To Net: NetName=EntradaTemp Pin=P8-1
+Added Pin To Net: NetName=EntradaTemp Pin=R18-1
+Added Net: Name=EntradaTemp
+Added Pin To Net: NetName=InputAdc1 Pin=P5-6
+Added Pin To Net: NetName=InputAdc1 Pin=R17-1
+Added Net: Name=InputAdc1
+Added Pin To Net: NetName=NetALIMENTACION1_1 Pin=ALIMENTACION1-1
+Added Pin To Net: NetName=NetALIMENTACION1_1 Pin=C1-1
+Added Net: Name=NetALIMENTACION1_1
+Added Member To Class: ClassName=proyecto final Member=Component P8 Conector 3 Vias
+Added Member To Class: ClassName=proyecto final Member=Component R22 10K
+Added Member To Class: ClassName=proyecto final Member=Component R23 10K
+Added Member To Class: ClassName=proyecto final Member=Component R24 10K
+Added Member To Class: ClassName=proyecto final Member=Component R25 10K
+Added Member To Class: ClassName=proyecto final Member=Component R26 10K
+Added Member To Class: ClassName=proyecto final Member=Component R27 10K
+Added Member To Class: ClassName=proyecto final Member=Component R28 10K
+Added Member To Class: ClassName=proyecto final Member=Component R29 10K

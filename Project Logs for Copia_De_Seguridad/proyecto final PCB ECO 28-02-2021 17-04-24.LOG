@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC16_1 Pin=P1-1
+Removed Member From Class: ClassName=proyecto final Member=P1
+Removed Member From Class: ClassName=proyecto final Member=P3
+Change Net Name : Old Net Name=I/O 9 New Net Name=I/O 8

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Hf Pin=IC1-16
+Removed Pin From Net: NetName=Input 2 Pin=IC1-28
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=Vshunt Pin=C30-2
+Added Pin To Net: NetName=Input 2 Pin=IC1-16
+Added Pin To Net: NetName=Hf Pin=IC1-20
+Added Pin To Net: NetName=EntradaCorriente Pin=R20-1
+Added Pin To Net: NetName=Vshunt Pin=R20-2
+Added Pin To Net: NetName=I/O 1 Pin=R21-1
+Added Pin To Net: NetName=GND Pin=Z5-1
+Added Pin To Net: NetName=Vshunt Pin=Z5-3
+Added Member To Class: ClassName=proyecto final Member=Component C30 100 nF
+Added Member To Class: ClassName=proyecto final Member=Component R20 Resistencia
+Added Member To Class: ClassName=proyecto final Member=Component Z5 Zener
